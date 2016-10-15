@@ -23,7 +23,7 @@ To execute the test locally, you need installed:
 
 ### Run
 
-To start it from command line, run:
+To start it from command line, navigate to the project directory (the one where pom.xml file resides) and run:
 `
 $ mvn clean && mvn test && mvn site
 `
